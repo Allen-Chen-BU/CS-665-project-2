@@ -9,6 +9,9 @@
 # Assignment Overview
 This assignment creates a delivery system that allows shop to send delivery request to the drivers.
 
+# GitHub Repository Link:
+https://github.com/Allen-Chen-BU/CS-665-project-2
+
 # Implementation Description 
 New types of shops can be added by implementing the shopinterface. New functions can be add to different types of the shop. Also new driver can be created by implmenting the driverInterface.
 The structure is simple that a shop will notify the delivery request to drivers that are in the shop's drivers list.
